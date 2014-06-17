@@ -1,0 +1,12 @@
+#define ACTION 0
+#define KEY 1
+#define VALUE 2
+#define ACT_NEW 0
+
+exit compile {
+  if this.data[ACTION] == ACT_NEW && this.data[KEY] != 0 && this.data[VALUE] != 0 {
+    if this.store[ this.data[KEY] ] == 0 {
+      this.store[ this.data[KEY] ] = this.data[VALUE]
+    }
+  }
+}
