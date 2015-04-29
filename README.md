@@ -1,3 +1,5 @@
+### As of 01-01-2015 this will not work any longer but I'm keeping it around for historical reasons :)
+
 # DNS Ethereum
 DNSEth is a DNS server prototype that uses Ethereum as backend.
 
