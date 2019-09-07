@@ -24,3 +24,6 @@ For instance:
 Setup 94.242.229.217 as DNS server and use 8.8.8.8 as secondary.
 
 With this setup you can for instance go to http://maran.eth/ and if all is well it should work as expected.
+Shago7937
+Master 
+Jose Santiago Silva Ramirez
